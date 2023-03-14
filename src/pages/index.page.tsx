@@ -1,10 +1,10 @@
 import { styled } from './styles'
 
 const Button = styled('button', {
-  backgroundColor: '#fff',
-  color: '#ff0000',
+  backgroundColor: '#00ff00',
+  color: '#000',
 })
 
 export default function Home() {
-  return <Button>Teste</Button>
+  return <Button>Better Control</Button>
 }
